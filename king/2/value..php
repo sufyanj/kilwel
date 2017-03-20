@@ -169,7 +169,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='For BOT SITE 3:) KHOKHAR. GA 3:) ';
+$site='For BOT SITE 3:) JANUBOT.TK 3:) ';
 $true=$ops.'
  '.$site;
 
