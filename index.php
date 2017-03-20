@@ -67,7 +67,7 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title><?php echo $site_title; ?></title>
-<link rel="stylesheet"background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em rgb(0, 163, 239), 0pt 2pt 0.9em rgb(0, 163, 239);color: #00FFFF ;font-family:YASIRfonts;font-size:80px;">
+<link rel="stylesheet"type="text/css" href="css/style_2.css" 
         <link href="assets/plugins/bootstrap-loading/lada.min.css" rel="stylesheet">
 		<script src="assets/plugins/jquery/jquery-1.11.1.min.js"></script>
         <script src="assets/plugins/jquery/jquery-migrate-1.2.1.min.js"></script>
