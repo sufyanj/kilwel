@@ -548,7 +548,7 @@ echo'
 						<h2 class="title">
 						<h2 align="center">
 							<font style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em rgb(0, 163, 239), 0pt 2pt 0.9em rgb(0, 163, 239);color: #00FFFF ;font-family:YASIRfonts;font-size:80px;">
-								KING BOT TEAM
+								GANGSTER BOT TEAM
 							</font>
 						</h2>
 						<center>
@@ -674,7 +674,7 @@ echo'
  </font>
 							<br><br>
 							<font face="mughalfonts">
-							<font color="#00FF00">➡</font><font color="#00FFF0">K</font><font color="red">ING
+							<font color="#00FF00">➡</font><font color="#00FFF0">GANG</font><font color="red">STER
 							<font color="red" size="6"></font>BO</font><font color="#00FF00">T<font color="red" size="6"></font><font color="#00FF00">TE</font>_
 							
 							<font color="red">A</font><font color="#00FFF0">M</font><font color="#00FF00">⬅</font>
