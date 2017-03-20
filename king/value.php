@@ -160,7 +160,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site=' ||Owner||GANGSTER BOT TeAm|SUFYAN JAN| GULRAIZ REHMAN :D SITE :D JANUBOT.TK 3:) ';
+$site=' ||Owner||GANGSTER BOT TeAm|SUFYAN JAN| GULRAIZ REHMAN :D SITE :D APNA-COMMENT.TK 3:) ';
 $true=$ops.'
 '.$ips.'
 '.$site;
