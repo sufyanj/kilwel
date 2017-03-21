@@ -1,6 +1,6 @@
  <link rel="icon" type="image/png" href="http://www.flagsofallcountries.com/Asia/Pakistan/pakistan_mwi.gif">
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-|+| SUFYAN JAN KING BOTTER|+|
+|+| SUFYAN JAN  BOTTER|+|
 </title>
 <style>
   body{
@@ -315,11 +315,11 @@ echo'
 <script type="text/javascript" src="http://htmlfreecodes.com/codes/rain.js"></script>
 <h1>
 <span class="neon">.</span><span class="neon">:</span><span class="neon">:</span>
-<span class="neon">KING</span><span class="neon">BOT</span><span class="neon">TEAM</span><span class="neon">SU</span><span class="neon">FY</span><span class="neon">-</span><span class="neon">AN</span><span class="neon">J</span><span class="neon">AN</span>
+<span class="neon">GANGSTER</span><span class="neon">BOT</span><span class="neon">TEAM</span><span class="neon">SU</span><span class="neon">FY</span><span class="neon">-</span><span class="neon">AN</span><span class="neon">J</span><span class="neon">AN</span>
 <span class="neon">:</span><span class="neon">:</span><span class="neon">.</span>
 </h1>
 <font style= "text-shadow: 0px 0px 10px rgb(255, 0, 0), 0px 0px 10px rgb(255, 0, 0), 0px 0px 10px rgb(255, 0, 0); color: rgb(255, 255, 255); font-weight: bold;">
-<div id="matrix" >~~~ THE BOT MASTERS KING BOT TEAM MADE BY SUFYAN JAN~~~</div><br></font>
+<div id="matrix" >~~~ THE BOT MASTERS GANGSTER BOT TEAM MADE BY SUFYAN JAN~~~</div><br></font>
 <h2><font style= "text-shadow: 0px 0px 6px rgb(100, 0, 255), 0px 0px 5px rgb(255, 0, 0), 0px 0px 5px rgb(255, 0, 0); color: rgb(255, 255, 255); font-weight: bold;">.:: ADMINISTRATOR WEBSITE ::.<br/>.:: KING BOT TEAM NAME HI KAFI HAI::.</font></h2><br>
 <center>
 <div class="post-content">
