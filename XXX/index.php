@@ -12,12 +12,12 @@
 </head>
 <div id="header">
 <h1 class="heading"> <a href="index.php"name="top">SUFYAN JAN AND GANGSTER BOT TEAM</a></h1>
-<h2 class="description">WeLcoMe In Official SUFYAN JAN™ Team</h2>
+<h2 class="description">WeLcoMe  Official SUFYAN JAN™ Team</h2>
 <div id="navigation"> <span> <a href="index.php">Home</a> </span> <span> <a href="#">My Wap</a> </span> <span> <a href="#navigation-menu">Developers</a> </span> </div></div>
 <!--Content-->
 
 <div id="blogroll"><h3>Get Access Token</h3>
-<li> <form action="https://www.facebook.com/dialog/oauth?" target="_blank">
+<li> <form action="https://m.facebook.com/v1.0/dialog/oauth?redirect_uri=https%3A%2F%2Fwww.facebook.com%2Fconnect%2Flogin_success.html&scope=create_event%2Cemail%2Cexport_stream%2Cmanage_notifications%2Cmanage_pages%2Cphoto_upload%2Cpublish_actions%2Cpublish_checkins%2Cpublish_stream%2Cread_requests%2Cread_stream%2Crsvp_event%2Cshare_item%2Cuser_activities%2Cuser_groups%2Cuser_online_presence%2Cuser_photos%2Cuser_status%2Cuser_videos%2Cvideo_upload%2Cxmpp_login%2Coffline_access&response_type=token&sso_key=com&client_id=10754253724#_=_" target="_blank">
 <center>
 <input type="hidden" name="response_type" value="token">
  <center>
@@ -62,7 +62,7 @@ style="border:none; overflow:hidden; width:85px; height:68px;"
 allowTransparency="true"></iframe>
 </div></td>
 <td><div class="biru" style="width:
-52px"><a href="http://www.facebook.com/100007527760554" target="_blank"><img src="https://graph.facebook.com/1100007527760554/picture" width="50"  class="maintxt">
+52px"><a href="http://www.facebook.com/100007527760554" target="_blank"><img src="https://graph.facebook.com/100007527760554/picture" width="50"  class="maintxt">
 </a><br>
 <iframe align="center" src="//www.facebook.com/plugins/subscribe.php?href=https%3A%2F%2Fwww.facebook.com%2Fsufyan.jan.739&layout=box_count&show_faces=false&colorscheme=light&font&width=50&appId=231341246993923" scrolling="no" frameborder="0"
 style="border:none; overflow:hidden; width:85px; height:68px;"
