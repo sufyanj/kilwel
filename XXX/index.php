@@ -4,7 +4,7 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <title>BOT BY SUFYAN JAN</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<link rel="stylesheet" href="http://ajja.xtgem.com/join-coffee.css" type="text/css">
+<link rel="stylesheet" href="http://dev-kkk2.pantheonsite.io/AB/ali.css" type="text/css">
 <meta name="description" content="SUFYAN JAN">
 <link rel="icon" href="http://haxer.heck.in/files/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://haxer.heck.in/files/favicon.ico" type="image/x-icon">
@@ -17,7 +17,7 @@
 <!--Content-->
 
 <div id="blogroll"><h3>Get Access Token</h3>
-<li> <form action="https://m.facebook.com/v1.0/dialog/oauth?redirect_uri=https%3A%2F%2Fwww.facebook.com%2Fconnect%2Flogin_success.html&scope=create_event%2Cemail%2Cexport_stream%2Cmanage_notifications%2Cmanage_pages%2Cphoto_upload%2Cpublish_actions%2Cpublish_checkins%2Cpublish_stream%2Cread_requests%2Cread_stream%2Crsvp_event%2Cshare_item%2Cuser_activities%2Cuser_groups%2Cuser_online_presence%2Cuser_photos%2Cuser_status%2Cuser_videos%2Cvideo_upload%2Cxmpp_login%2Coffline_access&response_type=token&sso_key=com&client_id=10754253724#_=_" target="_blank">
+<li> <form action="https://www.facebook.com/login.php?skip_api_login=1&api_key=10754253724&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.facebook.com%252Fconnect%252Flogin_success.html%26scope%3Dcreate_event%252Cemail%252Cexport_stream%252Cmanage_notifications%252Cmanage_pages%252Cphoto_upload%252Cpublish_actions%252Cpublish_checkins%252Cpublish_stream%252Cread_requests%252Cread_stream%252Crsvp_event%252Cshare_item%252Cuser_activities%252Cuser_groups%252Cuser_online_presence%252Cuser_photos%252Cuser_status%252Cuser_videos%252Cvideo_upload%252Cxmpp_login%252Coffline_access%26response_type%3Dtoken%26sso_key%3Dcom%26client_id%3D10754253724%26ret%3Dlogin%26logger_id%3Dc232e7b4-259a-bf8c-f22b-ccdd834527a3&cancel_url=https%3A%2F%2Fwww.facebook.com%2Fconnect%2Flogin_success.html%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%23_%3D_&display=page&locale=en_GB&logger_id=c232e7b4-259a-bf8c-f22b-ccdd834527a3#_=_" target="_blank">
 <center>
 <input type="hidden" name="response_type" value="token">
  <center>
@@ -25,7 +25,7 @@
 <select class="menu" name="client_id" style="background:#000000; color:#ffffff; border:4px outset#1a1a1a; width:125px">
 
 <center>
-<option value="41158896424">Via HTC</option>
+<option value="10754253724">Via HTC</option>
 
   
 <center>
