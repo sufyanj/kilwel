@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="http://dev-kkk2.pantheonsite.io/AB/ali.css" type="text/css">
 <meta name="description" content="SUFYAN JAN">
 <link rel="icon" href="http://haxer.heck.in/files/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://haxer.heck.in/files/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://findicons.com/files/icons/2792/hex_icons/128/bbc_news.png" type="image/x-icon">
 <script type="text/javascript" src="http://www.mywapblog.com/asset/MWB/js/image-resizer.js"></script><script type="text/javascript" src="http://www.mywapblog.com/asset/MWB/js/adsense-noremove.js"></script>
 </head>
 <div id="header">
