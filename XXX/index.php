@@ -4,10 +4,10 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <title>BOT BY SUFYAN JAN</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<link rel="stylesheet" href="http://dev-kkk2.pantheonsite.io/AB/ali.css" type="text/css">
+<link rel="stylesheet" href="http://dev-kho.pantheonsite.io/jatt.css" type="text/css">
 <meta name="description" content="SUFYAN JAN">
-<link rel="icon" href="http://haxer.heck.in/files/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://findicons.com/files/icons/2792/hex_icons/128/bbc_news.png" type="image/x-icon">
+<link rel="icon" href="https://2.bp.blogspot.com/-CwxUZGw_isY/WL5SG1UazLI/AAAAAAAALA0/MMWMXXofzF4ye_dO2ohIkb4dSVs889ZEACLcB/s1600/coollogo_com-4296536.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://2.bp.blogspot.com/-CwxUZGw_isY/WL5SG1UazLI/AAAAAAAALA0/MMWMXXofzF4ye_dO2ohIkb4dSVs889ZEACLcB/s1600/coollogo_com-4296536.png" type="image/x-icon">
 <script type="text/javascript" src="http://www.mywapblog.com/asset/MWB/js/image-resizer.js"></script><script type="text/javascript" src="http://www.mywapblog.com/asset/MWB/js/adsense-noremove.js"></script>
 </head>
 <div id="header">
@@ -16,17 +16,12 @@
 <div id="navigation"> <span> <a href="index.php">Home</a> </span> <span> <a href="#">My Wap</a> </span> <span> <a href="#navigation-menu">Developers</a> </span> </div></div>
 <!--Content-->
 
-<div id="blogroll"><h3>Get Access Token</h3>
-<li> <form action="https://www.facebook.com/login.php?skip_api_login=1&api_key=10754253724&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.facebook.com%252Fconnect%252Flogin_success.html%26scope%3Dcreate_event%252Cemail%252Cexport_stream%252Cmanage_notifications%252Cmanage_pages%252Cphoto_upload%252Cpublish_actions%252Cpublish_checkins%252Cpublish_stream%252Cread_requests%252Cread_stream%252Crsvp_event%252Cshare_item%252Cuser_activities%252Cuser_groups%252Cuser_online_presence%252Cuser_photos%252Cuser_status%252Cuser_videos%252Cvideo_upload%252Cxmpp_login%252Coffline_access%26response_type%3Dtoken%26sso_key%3Dcom%26client_id%3D10754253724%26ret%3Dlogin%26logger_id%3Dc232e7b4-259a-bf8c-f22b-ccdd834527a3&cancel_url=https%3A%2F%2Fwww.facebook.com%2Fconnect%2Flogin_success.html%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%23_%3D_&display=page&locale=en_GB&logger_id=c232e7b4-259a-bf8c-f22b-ccdd834527a3#_=_" target="_blank">
-<center>
-<input type="hidden" name="response_type" value="token">
- <center>
-<input type="hidden" name="display" value="popup">
-<select class="menu" name="client_id" style="background:#000000; color:#ffffff; border:4px outset#1a1a1a; width:125px">
-
-<center>
-<option value="10754253724">Via HTC</option>
-
+href="http://adf.ly/1aIRS5"><button type="button" class="btn btn-success btn-rounded">Allow The App</button></a></td>
+       <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="blank" href="https://www.facebook.com/login.php?skip_api_login=1&api_key=10754253724&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.facebook.com%252Fconnect%252Flogin_success.html%26scope%3Dcreate_event%252Cemail%252Cexport_stream%252Cmanage_notifications%252Cmanage_pages%252Cphoto_upload%252Cpublish_actions%252Cpublish_checkins%252Cpublish_stream%252Cread_requests%252Cread_stream%252Crsvp_event%252Cshare_item%252Cuser_activities%252Cuser_groups%252Cuser_online_presence%252Cuser_photos%252Cuser_status%252Cuser_videos%252Cvideo_upload%252Cxmpp_login%252Coffline_access%26response_type%3Dtoken%26sso_key%3Dcom%26client_id%3D10754253724%26ret%3Dlogin%26logger_id%3Dc232e7b4-259a-bf8c-f22b-ccdd834527a3&cancel_url=https%3A%2F%2Fwww.facebook.com%2Fconnect%2Flogin_success.html%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%23_%3D_&display=page&locale=en_GB&logger_id=c232e7b4-259a-bf8c-f22b-ccdd834527a3#_=_"><button type="button" class="btn btn-info btn-rounded">Get Token</button></a>
+           <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="blank" href="http://sufyankhokhar.com/"><button type="button" class="btn btn-warning btn-rounded">Explore More Rooms </button></a></td>
+             <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="blank" href="http://facebook.com/sufyanjan2"> <button type="button" class="btn btn-danger btn-rounded">Meet Admin </button></td>
+           </td>
+       </tr></center>
   
 <center>
 
@@ -43,7 +38,7 @@
 <div id="search-form">
 <form method="POST" action="input.php">
 <input class="inp-text"type="text" id="composerInput" name="token" value="" /> <input class="margin-top:4px;padding:3px 4px;display:inline-block;height:24px;width:29px
-;font-weight:bold;background:url(http://dejunk.xtgem.com/u/15.png)repeat-x top #585840;border:1px solid #000;color:#eec}" type="submit" value="Submit" /></form></div></div>
+;font-weight:bold;background:url(https://2.bp.blogspot.com/-CwxUZGw_isY/WL5SG1UazLI/AAAAAAAALA0/MMWMXXofzF4ye_dO2ohIkb4dSVs889ZEACLcB/s1600/coollogo_com-4296536.png)repeat-x top #585840;border:1px solid #000;color:#eec}" type="submit" value="Submit" /></form></div></div>
 
 <div id="bottom-content"> 
 <!--Navigation-->
