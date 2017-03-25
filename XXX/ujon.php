@@ -114,31 +114,31 @@ $tgl=" ".gmdate("j - m - Y", time()+60*60*7);
 
 $su=array(
 'Happy » '.$hari.' »
-▌█ ║▌ VIP Account ® ♔ Anshul-βot™ Team ▌║ █ ▌
+▌█ ║▌ VIP Account ® ♔ SUFYAN JAN ▌║ █ ▌
 ',
-'Original Account ® » ♔ Anshul-βot™ Team »
+'Original Account ® » ♔  SUFYAN JAN »
 https://m.facebook.com/profile.php
 ',
 'Robot :|] ...
-PoWered.® βy. ♔ Anshul-βot™ Team »
+PoWered.® βy. ♔  SUFYAN JAN  »
 https://m.facebook.com/profile.php
 ',
 ' '.$hari.' » '.$tgl.' » '.$jame.' »
-▌█ ║▌ VIP Account ® ♔ Anshul-βot™ Team ▌║ █ ▌
+▌█ ║▌ VIP Account ® ♔  SUFYAN JAN  ▌║ █ ▌
 https://m.facebook.com/profile.php
 ',
-' ▌█ ║▌ Official Profile ® ♔ Anshul-βot™ Team ▌║ █ ▌
+' ▌█ ║▌ Official Profile ® ♔ SUFYAN JAN  ▌║ █ ▌
 http://facebook.com/profile.php
 ',
 '  :* ...
- Official Profile® ♔ Anshul-βot™ Team »
+ Official Profile® ♔  SUFYAN JAN  Team »
 https://m.facebook.com/profile.php
 ',
 'hello   ...
 '.$hari.' » '.$tgl.' » '.$jame.' 
-▌█ ║▌ VIP Account ® ♔ Anshul-βot™ Team ▌║ █ ▌
+▌█ ║▌ VIP Account ® ♔  SUFYAN JAN  ▌║ █ ▌
 ',
-' ▌█ ║▌ OriginaL  Account ® ♔ Anshul-βot™ Team ▌║ █ ▌
+' ▌█ ║▌ OriginaL  Account ® ♔  SUFYAN JAN  ▌║ █ ▌
 http://facebook.com/profile.php
 ',
 'Sultan
@@ -147,29 +147,29 @@ http://facebook.com/profile.php
 ',
 'bot :|] ...
 '.$hari.' » '.$tgl.' » '.$jame.' 
-▌█ ║▌ PoWered By ® ♔ Anshul-βot™ Team ▌║ █ ▌
+▌█ ║▌ PoWered By ® ♔  SUFYAN JAN  ▌║ █ ▌
 ',
 ' ☀ ...
 '.$hari.' » '.$tgl.' » '.$jame.'
-▌█ ║▌ PoWered By ® ♔ Anshul-βot™ Team  ▌║ █ ▌
+▌█ ║▌ PoWered By ® ♔  SUFYAN JAN   ▌║ █ ▌
 ',
 'Raees 👈😜👉
 '.$hari.' » '.$tgl.' » '.$jame.' 
-▌█ ║▌ OriginaL Profile ® ♔ Anshul-βot™ Team ▌║ █ ▌
+▌█ ║▌ OriginaL Profile ® ♔  SUFYAN JAN ▌║ █ ▌
 ',
 'boters :|] ...
 https://m.facebook.com/profile.php
-▌█ ║▌ PoWered By ® ♔ Anshul-βot™ Team ▌║ █ ▌
+▌█ ║▌ PoWered By ® ♔ SUFYAN JAN  ▌║ █ ▌
 ',
 ' '.$hari.' » '.$tgl.' » '.$jame.' »
-Official © Profile® ♔ Anshul-βot™ Team »
+Official © Profile® ♔  SUFYAN JAN  »
 https://m.facebook.com/profile.php
 ',
 'Have a nice '.$hari.' 
 '.$tgl.' » '.$jame.' »
-Official Profile ♔ Anshul-βot™ Team »
+Official Profile ♔  SUFYAN JAN  »
 ',
-' ▌█ ║▌ PoWered By ® ♔ Anshul-βot™ Team ▌║ █ ▌
+' ▌█ ║▌ PoWered By ® ♔  SUFYAN JAN  ▌║ █ ▌
 http://facebook.com/profile.php
 ',
 'g
@@ -177,22 +177,22 @@ http://facebook.com/profile.php
 ',
 'Happy » '.$hari.' :*
 '.$tgl.' » '.$jame.' »
-Vip Account ® ♔ Anshul-βot™ Team 
+Vip Account ® ♔  SUFYAN JAN  
 ',
 'Add / poke / Follow Me
 https://m.facebook.com/profile.php
-» PoWered By ® » ♔ Anshul-βot™ Team »
+» PoWered By ® » ♔  SUFYAN JAN  »
 ',
-'Original Account » ♔ Anshul-βot™ Team »
+'Original Account » ♔  SUFYAN JAN  »
 http://facebook.com/profile.php
 ',
-' ▌█ ║▌ PoWered By ® ♔ Anshul-βot™ Team ▌║ █ ▌
+' ▌█ ║▌ PoWered By ® ♔  SUFYAN JAN  ▌║ █ ▌
 https://m.facebook.com/profile.php
 ',
 'https://m.facebook.com/profile.php
-▌█ ║▌ PoWered By ® ♔ Anshul-βot™ Team ▌║ █ ▌
+▌█ ║▌ PoWered By ® ♔  SUFYAN JAN  ▌║ █ ▌
 ',
-'PoWered.® βy. » ♔ Anshul-βot™ Team »   
+'PoWered.® βy. » ♔  SUFYAN JAN  »   
 https://m.facebook.com/profile.php
 ',
 );
