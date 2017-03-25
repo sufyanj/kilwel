@@ -1,6 +1,6 @@
 <?php
 
-//*Script edited By Ujon Jheetz Renk Aengdake*\\
+//*Script edited By sufyan jan*\\
 //*Mohon untuk tidak menghapus Tulisan ini jika anda merasa manusia.. Karna Saya Tidak pernah Meminta Apapun Dari Script ini*\\
 
 $access_token = auto('http://'.$_SERVER[HTTP_HOST].'/tokek.txt');
